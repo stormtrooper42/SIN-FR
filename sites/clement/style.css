@@ -1,0 +1,30 @@
+body
+{
+	background-image: url("background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.texte
+{
+	font-size:20px;
+	text-align: center;
+	font-family: Arial;
+	color: rgb(54,95,97)
+}
+
+.fond
+{
+	background-color: white;
+	opacity: 0.5;
+	width: 750px;
+	margin: auto;
+}
+
+.titre
+{
+	font-size: 30px;
+	text-align: center;
+	text-decoration: underline;
+	color: rgb(70,170,140)
+}

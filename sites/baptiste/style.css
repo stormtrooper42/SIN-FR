@@ -1,0 +1,85 @@
+.par1
+{	
+	text-align: center;
+	background-image: url("images/background.jpg");
+	background-size: 270px 100%;
+	background-repeat: no-repeat;
+	padding-bottom: 80px;
+	font-size:25px;
+	font-family:Parkavenue, cursive;
+}
+
+.par2
+{	
+	text-align: center;
+	background-image: url("images/background4.jpg");
+	background-size: 270px 100%;
+	background-repeat: no-repeat;
+	padding-bottom: 80px;
+	background-position: right;
+	font-size: 25px;
+	font-family:Parkavenue, cursive;
+}
+
+.par3
+{	
+	text-align: center;
+	background-image: url("images/background5.jpg");
+	background-size: 270px 100%;
+	background-repeat: no-repeat;
+	padding-bottom: 80px;
+	font-size: 25px;
+	font-family:Parkavenue, cursive;
+}
+
+p
+{
+	color: white;
+
+}
+
+h1
+{
+	color:white;
+	text-decoration:underline;
+	text-align:center;
+	font-size: 55px;
+
+}
+
+body
+{
+	background: #BA8B02;
+	background: -webkit-linear-gradient(to left, #BA8B02 , #181818);
+	background: linear-gradient(to left, #BA8B02 , #181818);
+
+}
+
+
+.img
+{
+	float:right;
+	height:150;
+	margin-right:50px
+}
+
+.img1
+{
+	float:left;
+	height:150px;
+
+
+	
+}
+
+.img2
+{
+	float:right;
+	height:150;
+	margin-right:50px
+}
+
+h5
+{
+color:#967738
+}

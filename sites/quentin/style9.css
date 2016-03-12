@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'font/comfortaa/comfortaaregular';
+    src: url('font/comfortaa/comfortaa-regular.eot');
+    src: url('font/comfortaa/comfortaa-regular.eot?#iefix') format('embedded-opentype'),
+         url('font/comfortaa/comfortaa-regular.woff2') format('woff2'),
+         url('font/comfortaa/comfortaa-regular.woff') format('woff'),
+         url('font/comfortaa/comfortaa-regular.ttf') format('truetype'),
+         url('font/comfortaa/comfortaa-regular.svg#comfortaaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+	background: #7b4397; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #7b4397 , #dc2430); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #7b4397 , #dc2430); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	color: white;
+}
+
+pre{
+	font-size: 4em;
+	line-height: 17px;
+}
+
+div#poeme{
+	float: right;
+	height: 830px;
+	width: 28%;
+	margin-right: 36%;
+}
+
+div#haut{
+	float: left;
+	font-family: 'font/comfortaa/comfortaaregular';
+	margin-left: 5%;
+	margin-top: 10px;
+	font-size: 3em;
+}
+
+div#audio{
+	margin-left: 8%;
+}

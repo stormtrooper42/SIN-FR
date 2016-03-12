@@ -1,0 +1,25 @@
+body {
+background-image: url(https://static.pexels.com/photos/1240/road-street-blur-blurred.jpg);
+	font-family: rockwell;
+	font-weight: bold;
+	font-size: 14px;
+	background-position: center center;
+	background-repeat: no-repeat; 
+	background-attachment: fixed; 
+	background-size: cover; 
+	-moz-background-size: 100% 100%;     /* Gecko 1.9.2 (Firefox 3.6) */
+	-o-background-size: 100% 100%;        /* Opera 9.5 */
+	-webkit-background-size: 100% 100%;   /* Safari 3.0 */
+	background-size: 100% 100%;           /* Gecko 2.0 (Firefox 4.0) > CSS3 */ 
+}
+p { 
+color: white;
+}
+h1 {
+color: white;
+}
+h2{
+color: white;
+}
+
+
