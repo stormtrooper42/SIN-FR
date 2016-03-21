@@ -1,0 +1,41 @@
+body
+{
+background: #232526; 
+background: -webkit-linear-gradient(to left, #232526 , #414345);
+background: linear-gradient(to left, #232526 , #414345); 
+
+}
+
+h1
+{
+color : red;
+text-align: center;
+font-size: 800%
+}
+
+#poeme
+
+
+li {
+list-style-type:none; 
+} 
+
+em
+{
+	color: blue;
+}
+
+#page1
+{
+color: blue;
+text-align: center;
+font-size: 280%;
+}
+
+#phrase
+{
+color: white;
+text-align: center;
+font-size: 200%;
+}
+

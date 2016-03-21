@@ -1,0 +1,216 @@
+body{
+
+background: #870000; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #870000 , #190A05); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #870000 , #190A05); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+font-family: 'Indie Flower', cursive;
+        }
+
+
+
+div#bite{
+		width: 50%;
+		height: 900px;
+		margin-left: 20%;
+		font-size: 2em;
+		color: #a79017;
+		margin-top: -11%;
+		font-family: 'Indie Flower', cursive;
+		}
+		
+		span#prem:hover{
+			color: #c0c0c0;
+			font-size: 1.5em;
+			font-family: 'Indie Flower', cursive;
+		}
+		span#deux:hover{
+			color: #537D6A;
+			font-size: 1.5em;
+			font-family: 'Indie Flower', cursive;
+		}
+		
+		span#trois:hover{
+			color: #4532C4;
+			font-size: 1.5em;
+			font-family: 'Indie Flower', cursive;
+		}
+		span#quatre:hover{
+			color:#C47632;
+			font-size: 1.5em;
+			font-family: 'Indie Flower', cursive;
+		}
+		
+		span#cinq:hover{
+			
+			color:#40C432;
+			font-size: 1.5em;
+			font-family: 'Indie Flower', cursive;
+		}
+		
+		span#six:hover{
+			font-size: 1.5em;
+			color:#D807D8
+			font-family: 'Indie Flower', cursive;
+			}
+		
+		span#sept:hover{
+			color:#078BD8;
+			font-size: 1.5em;
+			font-family: 'Indie Flower', cursive;
+		}
+		
+		span#huit:hover{
+			color:#5A07D8;
+			font-size: 1.5em;
+			font-family: 'Indie Flower', cursive;
+
+		}
+		
+		span#neuf:hover{
+			color:#A2F301;
+			font-size: 1.5em;
+			font-family: 'Indie Flower', cursive;
+		}
+		
+		span#dix:hover{
+			
+		color:#F35A01;
+		font-size: 1.5em;
+		font-family: 'Indie Flower', cursive;
+		}
+		
+		span#dix:hover{
+			
+			color:#ED00C6;
+			font-size: 1.5em;
+			font-family: 'Indie Flower', cursive;
+		}
+		
+		span#onze:hover{
+			
+			color:#55B679;
+			font-size: 1.5em;
+			font-family: 'Indie Flower', cursive;
+		}
+		
+		span#douze:hover{
+			color:#0F3A64;
+			font-size: 1.5em;
+			font-family: 'Indie Flower', cursive;
+		}
+		
+		span#treize:hover{
+			color:#AC5600;
+			font-size: 1.5em;
+			font-family: 'Indie Flower', cursive;
+		}
+		
+		span#quatorze:hover{
+			color:#209F12;
+			font-size: 1.5em;
+			font-family: 'Indie Flower', cursive;
+		}
+		
+		span#quinze:hover{
+			color:#00EC8E;
+			font-size: 1.5em;
+			font-family: 'Indie Flower', cursive;
+		}
+		
+		span#seize:hover{
+			
+		font-size:1.5em;
+		color:#ECE400;
+		font-family: 'Indie Flower', cursive;
+		}
+		
+		span#dixsept:hover{
+		font-size:1.5em;
+		color:#EC0056;
+		font-family: 'Indie Flower', cursive;
+		}
+		
+		span#dixhuit:hover{
+		font-size:1.5em;
+		color:#487613
+		font-family: 'Indie Flower', cursive;
+
+		}
+		
+		span#dixneuf:hover{
+		font-size:1.5em;
+		color:#1001E9;
+		font-family: 'Indie Flower', cursive;
+		}
+		
+		span#vingt:hover{
+		
+		font-size:1.5em;	
+		font-family: 'Indie Flower', cursive;
+		color:#00F0D0;
+
+		}
+		
+		
+		
+		span#b:hover{
+		font-size:1.1em;
+		color:#a79017;
+
+		}
+		span#r:hover{
+		font-size:1.1em;
+		color:#a79017;
+
+		}
+		span#o:hover{
+		font-size:1.1em;
+		color:#a79017;
+
+		}
+		span#n:hover{
+		font-size:1.1em;
+		color:#a79017;
+
+		}
+		span#z:hover{
+		font-size:1.1em;
+		color:#a79017;
+
+		}
+		span#t:hover{
+		font-size:1.1em;
+		color:#a79017;
+
+		}span#a:hover{
+		font-size:1.1em;
+		color:#a79017;
+
+		}
+		span#re:hover{
+		font-size:1.1em;
+		color:#a79017;
+
+		}
+		span#d:hover{
+		font-size:1.1em;
+		color:#a79017;
+
+		}
+		
+
+		
+h1{
+	color: #c0c0c0;
+	font-size: 100px;
+}
+
+div#titre{
+	margin-left: 23%;
+	margin-top: 3% ;
+}
+p{
+	font-family: 'Montserrat', sans-serif;
+}
+
+
