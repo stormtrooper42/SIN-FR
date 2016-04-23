@@ -1,0 +1,107 @@
+
+    font-family: 'Dayrom';
+    src: url('polices/dayrom.eot');
+    src: url('polices/dayrom.eot?#iefix') format('embedded-opentype'),
+         url('polices/dayrom.woff') format('woff'),
+         url('polices/dayrom.ttf') format('truetype'),
+         url('polices/dayrom.svg#Dayrom') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+/* Eléments principaux de la page */
+{
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    color: white;
+}
+#bloc_page
+{
+    width: 1250px;
+    margin: auto;
+}
+
+h1 {
+	color:brown;
+	 font-size: 2.0em;
+}
+pre{
+	color:#000000;
+    margin:auto;
+	text-align:left;
+}
+span#A:hover{
+	color:brown;
+	font-size:2.5vw;
+}
+span#B:hover{
+	color:brown;
+	font-size:1.75vw;
+}
+span#C:hover{
+	color:brown;
+	font-size:2.5vw;
+}
+span#D:hover{
+	color:brown;
+	font-size:1.75vw;
+}
+span#E:hover{
+	color:brown;
+	font-size:2.5vw;
+}
+span#F:hover{
+	color:brown;
+	font-size:1.75vw;
+}
+span#G:hover{
+	color:brown;
+	font-size:2.5vw;
+}
+span#H:hover{
+	color:brown;
+	font-size:1.75vw;
+}
+span#I:hover{
+	color:brown;
+	font-size:2.5vw;
+}
+span#J:hover{
+	color:brown;
+	font-size:1.75vw;
+}
+span#K:hover{
+	color:brown;
+	font-size:2.5vw;
+}
+span#L:hover{
+	color:brown;
+	font-size:1.75vw;
+}
+span#M:hover{
+	color:brown;
+	font-size:2.5vw;
+}
+span#N:hover{
+	color:brown;
+	font-size:1.75vw;
+}
+span#O:hover{
+	color:brown;
+	font-size:2.5vw;
+}
+span#P:hover{
+	color:brown;
+	font-size:1.75vw;
+}
+
+	body
+{
+background-image: url(http://blog.hdwallsource.com/wp-content/uploads/2014/11/sunlight-wallpapers-36050-36874-hd-wallpapers.jpg.png); 
+background-position: center center;
+background-repeat:repeat; 
+background-attachment: fixed; 
+background-size: cover; 
+-moz-background-size: 100% 100%;     /* Gecko 1.9.2 (Firefox 3.6) */
+-o-background-size: 100% 100%;        /* Opera 9.5 */
+-webkit-background-size: 100% 100%;   /* Safari 3.0 */
+background-size: 100% 100%;           /* Gecko 2.0 (Firefox 4.0) > CSS3 */
+}
